@@ -610,6 +610,11 @@ section {
   width: 100%;
 }
 
+.portDescText {
+  text-shadow: 0px 0px 4px rgba(44, 44, 44, .616);
+  letter-spacing: .05em;
+}
+
 .portfolio .portfolio-wrap img {
   height: 20vh;
   width: 100%;
